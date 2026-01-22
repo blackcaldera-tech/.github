@@ -1,4 +1,4 @@
-# BlackCaldera Technologies Limited
+# BlackCaldera Technologies
 
 **BlackCaldera Technologies Limited** is a technology company engaged in the **development, deployment, operation, and management of software systems and digital applications**.
 
